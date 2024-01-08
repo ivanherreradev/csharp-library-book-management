@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\csharp-library-book-management\library-book-management\library-book-management\obj\Debug\net8.0\library-book-management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\csharp-library-book-management\library-book-management\library-book-management\obj\Debug\net8.0\library-book-management.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\csharp-library-book-management\library-book-management\library-book-management\obj\Debug\net8.0\library-book-management.AssemblyInfo.cs
+C:\Users\Usuario\Documents\csharp-library-book-management\library-book-management\library-book-management\obj\Debug\net8.0\library-book-management.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\csharp-library-book-management\library-book-management\library-book-management\bin\Debug\net8.0\library-book-management.exe
+C:\Users\Usuario\Documents\csharp-library-book-management\library-book-management\library-book-management\bin\Debug\net8.0\library-book-management.deps.json
+C:\Users\Usuario\Documents\csharp-library-book-management\library-book-management\library-book-management\bin\Debug\net8.0\library-book-management.runtimeconfig.json
+C:\Users\Usuario\Documents\csharp-library-book-management\library-book-management\library-book-management\bin\Debug\net8.0\library-book-management.dll
+C:\Users\Usuario\Documents\csharp-library-book-management\library-book-management\library-book-management\bin\Debug\net8.0\library-book-management.pdb
+C:\Users\Usuario\Documents\csharp-library-book-management\library-book-management\library-book-management\obj\Debug\net8.0\library-book-management.dll
+C:\Users\Usuario\Documents\csharp-library-book-management\library-book-management\library-book-management\obj\Debug\net8.0\refint\library-book-management.dll
+C:\Users\Usuario\Documents\csharp-library-book-management\library-book-management\library-book-management\obj\Debug\net8.0\library-book-management.pdb
+C:\Users\Usuario\Documents\csharp-library-book-management\library-book-management\library-book-management\obj\Debug\net8.0\library-book-management.genruntimeconfig.cache
+C:\Users\Usuario\Documents\csharp-library-book-management\library-book-management\library-book-management\obj\Debug\net8.0\ref\library-book-management.dll
